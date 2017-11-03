@@ -21,7 +21,7 @@ $ open https://github.com/ruslo/hunter
 
 
 ```ShellSession
-$ export GITHUB_USERNAME=nex
+$ export GITHUB_USERNAME=nex-7
 $ export GITHUB_TOKEN=78d37972d2d7d2296d747ac3a960a2aaed19671e
 ```
 
